@@ -25,7 +25,7 @@ enum Resolutions
   COUNT
 };
 
-static const uint8_t notes[3] = { 0x3C, 0x3E, 0x40 };
+static const uint8_t notes[3] = { 0x00, 0x01, 0x02 };
 
 class GridsWrapper
 {
